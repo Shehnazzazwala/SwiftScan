@@ -1,6 +1,5 @@
 """
     SORT: A Simple, Online and Realtime Tracker
-    Copyright (C) 2016-2020 Alex Bewley alex@bewley.ai
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
